@@ -32,7 +32,7 @@ To examine how nightly prices are distributed in each city, we used density plot
 
 Budapest and Athens show tightly concentrated price distributions, indicating relatively low price variability. The most common nightly prices are approximately **€150** in Budapest and **€120** in Athens. In contrast, Amsterdam and Barcelona display wider distributions with multiple peaks, reflecting greater price variability. Amsterdam shows the highest overall price range, with common prices reaching **€400–€660** per night.
 
-![Price Distribution](figures/density_price_cities.jpg)
+![Price Distribution](../figures/density_price_cities.jpg)
 
 ---
 
