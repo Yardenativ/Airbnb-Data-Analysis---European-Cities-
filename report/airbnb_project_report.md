@@ -42,7 +42,7 @@ We estimated the average nightly price for weekdays and weekends using bootstrap
 
 When analyzed by city, most cities show only minor price differences between weekdays and weekends. Amsterdam is an exception, with noticeably higher weekday prices, while Athens shows virtually no difference.
 
-![Weekday vs Weekend](figures/avg_price_weekday_weekend.jpg)
+![Weekday vs Weekend](../figures/avg_price_weekday_weekend.jpg)
 
 ---
 
@@ -52,8 +52,8 @@ We examined whether city size (in square kilometers) is associated with the numb
 
 For example, Rome has both the largest area and the highest number of listings, while Paris—despite its relatively small size—has a high number of listings. This suggests that factors such as tourism demand and local regulations play a more important role than geographic size.
 
-![Availability of Listings by City Size](figures/Num_of_units_available.jpg)
-![Correlation between the City size to Number of Listings](figures/city_size_availability_pearson.jpg)
+![Availability of Listings by City Size](../figures/Num_of_units_available.jpg)
+![Correlation between the City size to Number of Listings](../figures/city_size_availability_pearson.jpg)
 
 ---
 
@@ -61,7 +61,7 @@ For example, Rome has both the largest area and the highest number of listings, 
 
 Most Airbnb listings across the sampled cities are suitable for **two guests**, making them ideal for couples or solo travelers. Listings suitable for larger groups (5–6 guests) are less common, especially in cities such as Amsterdam. Rome stands out as a destination with relatively high availability for larger groups.
 
-![Availability by Group Size](figures/availability_by_beds.jpg)
+![Availability by Group Size](../figures/availability_by_beds.jpg)
 
 ---
 
@@ -69,7 +69,7 @@ Most Airbnb listings across the sampled cities are suitable for **two guests**, 
 
 We created a combined guest satisfaction score by averaging cleanliness ratings and normalized guest satisfaction scores. Entire apartments receive the highest average satisfaction ratings, followed closely by private rooms. Shared rooms show lower and more variable satisfaction levels, likely due to reduced privacy and comfort.
 
-![Guest Satisfaction by Room Type](figures/guest_satisfaction_room_type.jpg)
+![Guest Satisfaction by Room Type](../figures/guest_satisfaction_room_type.jpg)
 ---
 
 ## Discussion
