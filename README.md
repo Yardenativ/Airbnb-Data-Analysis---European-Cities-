@@ -73,3 +73,6 @@ The analysis includes:
 ## Academic Context
 This project was completed as part of a Data Science course at Ben-Gurion University of the Negev.
 
+## Full Report
+A detailed version of the analysis is available here:
+- `report/airbnb_project_report.md`
