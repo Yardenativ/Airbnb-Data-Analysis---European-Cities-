@@ -40,6 +40,17 @@ The analysis includes:
 - Bootstrap confidence intervals for average prices
 - Pearson correlation analysis
 - Data visualization (density plots, bar charts, boxplots)
+  
+## Example Visualizations
+
+### Price Distribution Across Cities
+![Price Distribution](figures/density_price_cities.jpg)
+
+### Average Price: Weekday vs Weekend
+![Weekday vs Weekend](figures/avg_price_weekday_weekend.jpg)
+
+### Guest Satisfaction by Room Type
+![Guest Satisfaction](figures/guest_satisfaction_room_type.jpg)
 
 ## Key Findings
 - Amsterdam is the most expensive city, while Athens and Budapest are the most affordable.
